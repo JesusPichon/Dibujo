@@ -1,0 +1,70 @@
+ body{
+   background-color: #cccccc;
+}
+.Box1 {   background: #fff;
+    width:1280px;
+	height: 1700px;
+	position: absolute;
+	top: 100px;
+	margin-left:40px;
+	margin-right:40px;
+	box-shadow: 2px 2px 5px black;
+	}
+
+.Box1 h1{
+	font-size: 50px;
+	font-family: Impact,Calibri;
+	text-align: center;
+	-webkit-text-fill-color: black; 
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+	
+}
+.Box1 h2{
+	padding-left: 30px;
+	font-size: 35px; 
+	font-family: Impact,Calibri;
+	text-align: left;
+	-webkit-text-fill-color: black; 
+  	-webkit-text-stroke-width: 1px;
+  	-webkit-text-stroke-color: white;
+}
+.Box1 p{
+	 font-family: arial;
+  text-align: justify;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.Box1 img{
+position: absolute;
+top: 200px;
+left: 100px;
+width: 1000px;
+height: 400px;	
+padding:30px;
+}
+.Menu{padding-right: 10px;
+		padding-top: 1px;
+		color:#fff;
+		}
+
+.Menu li{display: inline;}
+
+.Menu li a {
+	font-family: Arial;
+	font-size:15px;
+	text-decoration: none;
+	float:left;
+	padding: 20px;
+	width: 120px;
+	background-color: #2175bc;
+	color: #fff;
+	box-shadow: 2px 2px 5px black;
+			}
+
+.Menu li a:hover {
+background-color: #2586d7;
+margin-top:-1px;
+padding-bottom:12px;
+}

@@ -1,0 +1,250 @@
+body{
+	background-color: #C0BEBC;
+}
+.Box1{	
+		background-color: #2175bc;
+		width: 30%;
+		height: 500px;
+		padding: 20px;
+		float:left;
+		margin-left:40px;
+		box-shadow: 2px 2px 5px black;
+		}
+
+.Box1 h2{color: #fff;
+		font-family: Impact,Arial,Times New Romance;
+		font-size: 40px;
+		text-align: center;
+		}
+
+.Box1 p{color: #fff;
+		font-family: Arial,Times New Romance,Impact;
+		font-size: 17px;
+		text-align: justify;
+		text-shadow:2px 2px 5px black; 
+		}
+.Box2{color: #fff;
+	background-color: #000;
+		width: 775px;
+		height: 520px;
+		padding: 10px;
+		float:left;
+		margin-left:40px;
+		}
+.Box2 img{padding:10px;
+		width:  750px; 
+		height: 370px; }
+
+.Box2{text-align: center;
+	  font-family: calibri;
+	  font-size: 25px;}
+
+.Box3{
+    background-color:#2175bc;
+    width: 1275px;
+	height: 70px;
+	position: absolute;
+	top: 670px;
+	margin-left:40px;
+	margin-right:40px;
+	box-shadow: 2px 2px 5px black;
+
+	   }
+
+.Box3 h2{text-align:left;
+		font-family: Calibri,Impact,Arial;
+		font-size: 25px;
+		color: #fff;
+	}
+.Box4{ background-color: #fff;
+ 	width: 1275px;
+	height: 200px;
+	position: absolute;
+	top: 760px;
+	margin-left:40px;
+	margin-right:40px;
+	box-shadow: 2px 2px 5px black;
+	box-shadow: 2px 2px 5px black;
+		border-radius: 80px 0px 80px 0px;
+        -moz-border-radius: 80px 0px 80px 0px;
+		-webkit-border-radius: 80px 0px 80px 0px;
+		border: 0px solid #000000;
+	
+	}
+
+.Box4 h2{
+	font-size: 30px;
+	font-family: Imapct;
+	padding-left: 30px;
+	-webkit-text-fill-color: black; 
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+		 }
+.Box4 p{ font-family: calibri;
+		padding-left: 30px; 
+		padding-right: 30px;
+	}
+
+.Box5{ background-color: #fff;
+ 	width: 1275px;
+	height: 200px;
+	position: absolute;
+	top: 1000px;
+	margin-left:40px;
+	margin-right:40px;
+	box-shadow: 2px 2px 5px black;
+		border-radius: 80px 0px 80px 0px;
+        -moz-border-radius: 80px 0px 80px 0px;
+		-webkit-border-radius: 80px 0px 80px 0px;
+		border: 0px solid #000000;
+	
+	}
+	.Box5 h2{
+	font-size: 30px;
+	font-family: Imapct;
+	padding-left: 30px;
+	-webkit-text-fill-color: black; 
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+		 }
+		 .Box5 p{ font-family: calibri;
+		padding-left: 30px; 
+		padding-right: 30px;
+	}
+
+.Box6{ background-color: #fff;
+ 	width: 1275px;
+	height: 200px;
+	position: absolute;
+	top: 1240px;
+	margin-left:40px;
+	margin-right:40px;
+	box-shadow: 2px 2px 5px black;
+	box-shadow: 2px 2px 5px black;
+		border-radius: 80px 0px 80px 0px;
+        -moz-border-radius: 80px 0px 80px 0px;
+		-webkit-border-radius: 80px 0px 80px 0px;
+		border: 0px solid #000000;
+	
+	}
+	
+.Box6 h2{
+	font-size: 30px;
+	font-family: Imapct;
+	padding-left: 30px;
+-webkit-text-fill-color: black; 
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+		 }
+
+.Box6 p{ font-family: calibri;
+		padding-left: 30px; 
+		padding-right: 30px;
+		}
+
+.Box7{
+    background-color:#2175bc;
+    width: 1275px;
+	height: 70px;
+	position: absolute;
+	top: 1480px;
+	margin-left:40px;
+	margin-right:40px;
+	box-shadow: 2px 2px 5px black;
+
+	   }
+
+.Box7 h2{text-align:left;
+		font-family: Calibri,Impact,Arial;
+		font-size: 25px;
+		color: #fff;
+		color: white;
+  
+	}
+
+.Box8{
+    background: white;
+    width:800px;
+	height: 900px;
+	position: absolute;
+	top: 1600px;
+	margin-left:40px;
+	margin-right:40px;
+	box-shadow: 2px 2px 5px black;
+	   }
+
+.Box8 img{
+ position: block;
+ width: 700px;
+ height: 300px;
+ margin: 40px;
+ border:solid;
+ border-color: black;
+ border-radius:5px;
+}
+
+.Box9{
+    background-color:#000;
+    width:420px;
+	height: 900px;
+	position: absolute;
+	top: 1600px;
+	left: 900px;
+	color: #fff;
+	box-shadow: 2px 2px 5px black;
+	   }
+
+.Box9 img {
+	height:250px;
+	width: 340px;
+	padding: 20px;
+
+}
+
+.Menu{padding-right: 10px;
+		padding-top: 1px;
+		color:#fff;
+		}
+
+.Menu li{display: inline;}
+
+.Menu li a {
+	font-family: Arial;
+	font-size:15px;
+	text-decoration: none;
+	float:left;
+	padding: 20px;
+	width: 120px;
+	background-color: #2175bc;
+	color: #fff;
+	list-style: none;
+	box-shadow: 2px 2px 5px black;
+			}
+
+.Menu li a:hover {
+background-color: #2586d7;
+margin-top:-1px;
+padding-bottom:12px;
+}
+form {
+    overflow: hidden;
+    padding-left: 40px;
+}
+ 
+label {
+    float: left;
+    width: 200px;
+    padding-right: 24px;
+    font-family: Impact;
+    font-size: 25px;
+}
+ 
+input {
+    float: left;
+    width: calc(100% - 100px);
+}
+ 
+button {
+    float: left;
+    width: calc(100% - 100px);
+}

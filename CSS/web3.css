@@ -1,0 +1,77 @@
+body{
+   background-color: #cccccc;
+}
+.Box1 {   background: linear-gradient( #2175bc, #fff);
+    width:900px;
+	height: 900px;
+	position: absolute;
+	top: 100px;
+	margin-left:40px;
+	margin-right:40px;
+	box-shadow: 2px 2px 5px black;
+	}
+
+.Box1 h1{
+	font-size: 50px;
+	font-family: Impact,Calibri;
+	text-align: center;
+		-webkit-text-fill-color: white; 
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+	
+}
+.Box1 h2{
+	padding-left: 30px;
+	font-size: 35px; 
+	font-family: Impact,Calibri;
+	text-align: left;
+	-webkit-text-fill-color: white; 
+  	-webkit-text-stroke-width: 1px;
+  	-webkit-text-stroke-color: black
+}
+.Box1 p{column-count: 2;
+  text-align: justify;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.Box2{
+    background-color:#000;
+    width: 380px;
+	height: 900px;
+	position: absolute;
+	left: 960px;
+	top: 100px;
+	box-shadow: 2px 2px 5px black;
+}
+
+.Box2 img {
+	height: 250px;
+	width:300px;
+	padding-left: 30px;
+	padding-top: 20px; 
+}
+
+.Menu{padding-right: 10px;
+		padding-top: 1px;
+		color:#fff;
+		}
+
+.Menu li{display: inline;}
+
+.Menu li a {
+	font-family: Arial;
+	font-size:15px;
+	text-decoration: none;
+	float:left;
+	padding: 20px;
+	width: 120px;
+	background-color: #2175bc;
+	color: #fff;
+	box-shadow: 2px 2px 5px black;
+			}
+
+.Menu li a:hover {
+background-color: #2586d7;
+margin-top:-1px;
+padding-bottom:12px;
+}
